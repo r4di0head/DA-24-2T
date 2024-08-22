@@ -1,18 +1,17 @@
-<<<<<<< HEAD
 
- //               Operadores Logicos.   aula 7               
+ /*            Operadores Logicos.   aula 7               
                    
                    // Exemplos  && 
 
-/*  const primeiroValor = true
+  const primeiroValor = true
 const segundoValor = false
 
 const resultado = primeiroValor&&
 segundoValor
 
-console.log(resultado) */
+console.log(resultado) 
 
-/*                    Exercicios
+                   Exercicios
 
 const a = true
 const b = false
@@ -30,15 +29,14 @@ console.log(resultado)           (true)
 const resultado = a && b && c
 console.log(resultado)           (false) */
 
-                // Exemplos ||
+// Exemplos ||
 
 /*const primeiroValor = true
 const segundoValor = true
 const resultado = primeiroValor || 
 segundoValor
 console.log(resultado) */
-
-                 //   Exercicios
+//   Exercicios
 
 
 /*const a = true
@@ -54,8 +52,7 @@ const c = true
 //const resultado = a || b || c (true)
 console.log(resultado) */
 
-
-              // Exemplos (! NOT)
+ // Exemplos (! NOT)
 
 /* const primeiroValor = true
 const resultado = !primeiroValor
@@ -77,7 +74,7 @@ let idade2050 = 2050 - anoNascimento;
 
 console.log("maior de idade" + maiorIdade);
 console.log("idade em 2050"+   idade2050 + "anos")*/
-
+/*
 const bool1 = true
 const bool2 = false
 const bool3 = !bool2 
@@ -98,8 +95,6 @@ console.log("c. ", resultado)
 console.log("d. ", typeof resultado) 
 // typeof para revelar o tipo da variavel resultado, uma boolean por causa do false e true.
 
-
-=======
 
  //               Operadores Logicos.   aula 7               
                    
@@ -131,7 +126,7 @@ console.log(resultado)           (true)
 const resultado = a && b && c
 console.log(resultado)           (false) */
 
-                // Exemplos ||
+   // Exemplos ||
 
 /*const primeiroValor = true
 const segundoValor = true
@@ -139,7 +134,7 @@ const resultado = primeiroValor ||
 segundoValor
 console.log(resultado) */
 
-                 //   Exercicios
+//   Exercicios
 
 
 /*const a = true
@@ -155,8 +150,7 @@ const c = true
 //const resultado = a || b || c (true)
 console.log(resultado) */
 
-
-              // Exemplos (! NOT)
+  // Exemplos (! NOT)
 
 /* const primeiroValor = true
 const resultado = !primeiroValor
@@ -200,4 +194,53 @@ console.log("d. ", typeof resultado)
 // typeof para revelar o tipo da variavel resultado, uma boolean por causa do false e true.
 */
 
->>>>>>> 3e55e5e081873844eec954df42b1b283fe68fcd0
+// Exercicio 2  
+/*let primeiroNumero = prompt("digite um numero!")
+let segundoNumero = prompt("digite outro numero!")
+const soma = primeiroNumero + segundoNumero
+console.log(soma) 
+ //sugestao:
+ let primeiroNumero = Number(prompt("digite um numero!"))
+let segundoNumero = Number(prompt("digite outro numero!"))
+const soma = primeiroNumero + segundoNumero
+console.log(soma) //number para converter */
+
+// Exercicio 3
+
+/*const idadeUsuario = Number(prompt("sua idade?"))
+const idadeAmigo = Number(prompt("idade do melhor amigo?"))
+let resultado = idadeUsuario > idadeAmigo
+console.log("Sua idade é maior do que a do seu amigo?," resultado)
+resultado = idadeUsuario - idadeAmigo
+console.log(idadeUsuario - idadeAmigo) */
+
+//Exercicio 4
+
+/*const nPar = Number(prompt("Digite um numero par"))
+console.log(nPar%2) 
+// o numero 0 */
+
+// exercicio 5
+
+/* const idade = Number(prompt("sua idade?"))
+const resultado = idade * 12
+console.log("sua idade em meses é:",resultado)
+
+let resultado1 = idade * 365
+console.log("sua idade em dias é:",resultado1)
+resultado1 *= 24
+console.log("sua idade em horas é igual a:",resultado1) */
+
+// exercicio 6
+
+/*let numeros1 = Number(prompt("digite um numero"))
+let numeros2 = Number(prompt("digite outro numero"))
+let resultado = numeros1 > numeros2 
+console.log(resultado) */
+
+
+
+
+
+
+
