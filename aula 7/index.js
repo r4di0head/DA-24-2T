@@ -179,7 +179,7 @@ let idade2050 = 2050 - anoNascimento;
 console.log("maior de idade" + maiorIdade);
 console.log("idade em 2050"+   idade2050 + "anos")*/
 
-const bool1 = true
+/* const bool1 = true
 const bool2 = false
 const bool3 = !bool2 
  //o  operadores Logico ! antes da variavel bool2 foi usado para dar o valor contrario da bool2 para a bool12 que nao foi definida como true ou false.
@@ -198,6 +198,6 @@ console.log("c. ", resultado)
 
 console.log("d. ", typeof resultado) 
 // typeof para revelar o tipo da variavel resultado, uma boolean por causa do false e true.
-
+*/
 
 >>>>>>> 3e55e5e081873844eec954df42b1b283fe68fcd0
