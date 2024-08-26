@@ -209,5 +209,11 @@ console.log(letras)
 letras. splice(5,2)
 console.log(letras) */
 
-const numeros = [1,2,3,4,5,6]
+/* const numeros = [1,2,3,4,5,6]
+console.log(numeros.length)
+numeros.Push(7)
+numeros.splice(3,2)
+console.localStorage(numeros)
+console.localStorage(numeros.length) */
+
 >>>>>>> 6e4a527dee3692becaf2921017914a62e6140c77
