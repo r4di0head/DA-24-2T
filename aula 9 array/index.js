@@ -15,8 +15,14 @@ console.log('e. ', array)
 const valor = array[i+5]
 console.log('f. ', valor) */
 
+
+
+
 /* const frase = prompt("Digite uma frase") //prompt pedindo a frase ao usuario
 console.log(frase.toUpperCase().replaceAll("A", "I"), frase.length) // imprimindo a frase digitada com todas as letras em maiusculo e entao substituindo todos os A por I. */
+
+
+
 
 /* const usuario = prompt("Digite seu nome")
 const email = prompt("Digite seu email")
@@ -24,6 +30,8 @@ const email = prompt("Digite seu email")
 const frase = `O email ${email} foi cadastrado com sucesso. seja bem-vindo ${usuario}`
 
 console.log(frase) */
+
+
 
 /* const comidas = ["rapadura" , "paçoca" , "pipoca" , "pizza" , "batata"]
 
@@ -36,7 +44,9 @@ comidas.splice(1,4)
 comidas.push(comidasUsuario, "paçoca" , "pipoca" , "pizza" , "batata")
 console.log(comidas) */
 
-/* const listaDeTarefas = []
+
+
+/* let listaDeTarefas = []
 listaDeTarefas.push (prompt("cite uma tarefa que faz durante o dia."))
 listaDeTarefas.push (prompt("cite uma tarefa que faz durante o dia."))
 listaDeTarefas.push (prompt("cite uma tarefa que faz durante o dia."))
