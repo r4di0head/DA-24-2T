@@ -143,9 +143,9 @@ const calcular = (num1,num2) => {
 const soma = resultado(3,2)
 console.log("a soma é:", soma) */
 
-function determinaMonstro (monstro){
-    
+/* function determinaMonstro (monstro){
+
  }
  
  
- imprimir("24-2T")
+ imprimir("24-2T") */
